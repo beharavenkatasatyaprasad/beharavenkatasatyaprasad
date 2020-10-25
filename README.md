@@ -47,7 +47,7 @@ I'm a pre-final year student pursuing Bachelor's in Electronics and Communicaton
 	    <li><b>Laptop: </b> Lenovo Ideapad (i5)</li>
   	    <li><b>Browser: </b> Firefox Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
-	    <li><b>To Stay Updated:</b> Linkedin, Telegram and FB</li>
+	    <li><b>To Stay Updated:</b> Linkedin & Instagram</li>
 	    <br />
 	</ul>	
 </details>
