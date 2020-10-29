@@ -47,13 +47,14 @@ I'm a pre-final year student pursuing Bachelors's in Electronics and Communicato
 	</ul>	
 </details>
 
-
-#
+-------
 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+------
 
 <img  src="gifs/bars.gif" alt=""/>
