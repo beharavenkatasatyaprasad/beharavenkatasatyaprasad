@@ -49,6 +49,7 @@ I'm a pre-final year student pursuing Bachelors's in Electronics and Communicato
 
 
 <img  src="gifs/bars.gif" alt=""/>
+
 -------
 
 <div align="center">
