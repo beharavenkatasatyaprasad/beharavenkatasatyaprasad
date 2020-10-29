@@ -47,6 +47,8 @@ I'm a pre-final year student pursuing Bachelors's in Electronics and Communicato
 	</ul>	
 </details>
 
+
+<img  src="gifs/bars.gif" alt=""/>
 -------
 
 <div align="center">
@@ -56,5 +58,3 @@ I'm a pre-final year student pursuing Bachelors's in Electronics and Communicato
 </div>
 
 ------
-
-<img  src="gifs/bars.gif" alt=""/>
