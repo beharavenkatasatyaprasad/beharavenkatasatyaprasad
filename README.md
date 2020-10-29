@@ -40,7 +40,7 @@
 
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04 / Windows</li>
+  	    <li><b>OS:</b> Ubuntu 20.04 / Windows 10</li>
 	    <li><b>Laptop: </b> Lenovo Ideapad (i5)</li>
   	    <li><b>Browser: </b> Firefox Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
