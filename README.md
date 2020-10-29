@@ -10,7 +10,7 @@
 I'm a pre-final year student pursuing Bachelor's in Electronics and Communicatons 🎓 from KL University (Vijayawada) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
-<img align="right" height="250" width="375" alt="" src="gifs/code.gif" />
+<img align="right" height="300" width="400" alt="" src="gifs/code.gif" />
 
 ### Talking about Personal Stuffs:
 
