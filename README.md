@@ -7,10 +7,10 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a pre-final year student pursuing Bachelor's in Electronics and Communicatons 🎓 from KL University (Vijayawada) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+<p align='justify'>I'm a pre-final year student pursuing Bachelor's in Electronics and Communicatons 🎓 from KL University (Vijayawada) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</p>
 
 
-<img align="right" height="300" width="500" alt="" src="gifs/code.gif" />
+<img align="right" height="320" width="500" alt="" src="gifs/code.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -40,7 +40,7 @@ I'm a pre-final year student pursuing Bachelor's in Electronics and Communicaton
 
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b> Ubuntu 20.04 / Windows</li>
 	    <li><b>Laptop: </b> Lenovo Ideapad (i5)</li>
   	    <li><b>Browser: </b> Firefox Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
@@ -53,6 +53,6 @@ I'm a pre-final year student pursuing Bachelor's in Electronics and Communicaton
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+	### Show some ❤️ by starring some of the repositories!
 
 </div>
