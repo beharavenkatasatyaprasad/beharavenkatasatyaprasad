@@ -10,7 +10,7 @@
 I'm a pre-final year student pursuing Bachelor's in Electronics and Communicatons 🎓 from KL University (Vijayawada) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
-<img align="right" height="300" width="600" alt="" src="gifs/code.gif" />
+<img align="right" height="300" width="550" alt="" src="gifs/code.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -35,9 +35,6 @@ I'm a pre-final year student pursuing Bachelor's in Electronics and Communicaton
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
 
   <br />
 
