@@ -34,10 +34,6 @@ I'm a pre-final year student pursuing Bachelors's in Electronics and Communicato
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
-
   <br />
 
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -51,6 +47,7 @@ I'm a pre-final year student pursuing Bachelors's in Electronics and Communicato
 	</ul>	
 </details>
 
+
 #
 
 <div align="center">
@@ -58,3 +55,5 @@ I'm a pre-final year student pursuing Bachelors's in Electronics and Communicato
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+<img  src="gifs/bars.gif" alt=""/>
