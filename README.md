@@ -16,7 +16,6 @@ I'm a pre-final year student pursuing Bachelors's in Electronics and Communicato
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development. (Done with Frontend)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/beharavenkatasatyaprasad).
-- 💬 &nbsp; Ask me about anything [here](https://wa.me/917093657303&text=Hello%20Satya)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: satyaprasadbehara@gmail.com
 
