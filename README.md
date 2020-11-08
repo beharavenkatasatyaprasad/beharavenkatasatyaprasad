@@ -30,7 +30,7 @@
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
-<!-- <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript"></code> -->
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
 
