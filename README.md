@@ -65,7 +65,7 @@
 	    </tr>
 	  </tbody>
 	</table>
-</details><br>
+</details>
 <details><br><br>
 	<summary><b>🏃‍♂️ Participations</b></summary>
 	<table align='center'>
@@ -89,7 +89,7 @@
 	    </tr>
 	  </tbody>
 	</table>
-</details><br>
+</details>
 <details><br><br>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
