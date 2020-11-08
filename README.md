@@ -89,7 +89,7 @@
 	    <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Hackathon-31-10-2020'>Guvi's Hackathon</a></td>
 	      <td>HTML,CSS,Javascript</td>
-	      <td align='justify'>Challenge is to integrate with the FreshDesk API and build a freshdesk clone.</td>
+	      <td align='center'>Challenge is to integrate with the FreshDesk API & build freshdesk clone.</td>
 	    </tr>
 	  </tbody>
 	</table>
