@@ -99,14 +99,14 @@
 <!--   <summary><b>⚙️ Things I use to get stuff done</b></summary> -->
 	<table align='center'>
 	  <tbody>
-	     <tr align='center'>
-	      <td><b>Operating system</b></td>
-	      <td>Windows 10 & Ubuntu 20.04</td>
-             </tr>
 	    <tr align='center'>
 	      <td><b>Laptop</b></td>
 	      <td>Lenovo Ideapad 320 (i5,7th Generation)</td>
 	    </tr>
+	     <tr align='center'>
+	      <td><b>Operating system</b></td>
+	      <td>Windows 10 & Ubuntu 20.04</td>
+             </tr>		  
 	    <tr align='center'>
 	      <td><b>Browser</b></td>
 	      <td>Firefox Developer Edition</td>
