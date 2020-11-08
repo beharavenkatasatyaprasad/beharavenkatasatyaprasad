@@ -96,7 +96,7 @@
 	  <tbody>
 	     <tr align='center'>
 	      <td><b>Operating system</b></td>
-	      <td>Windows 10 & Ubuntu 19.10</td>
+	      <td>Windows 10 & Ubuntu 20.04</td>
              </tr>
 	    <tr align='center'>
 	      <td><b>Laptop</b></td>
