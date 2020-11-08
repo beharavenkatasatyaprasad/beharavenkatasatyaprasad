@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Satya Prasad Behara!](https://github.com/beharavenkatasatyaprasad/)
+## Hey 👋, I'm [Satya Prasad Behara!](https://github.com/beharavenkatasatyaprasad/) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satya-prasad-behara-51ab861a2/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/satyaplanet1)
@@ -32,6 +32,64 @@
 
   <br>
   
+<details>
+	<summary><b>My Works</b></summary>
+	<table>
+	  <thead>
+	    <tr>
+	      <th>Project Name</th>
+	      <th>Skills used</th>
+	      <th>Description</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	     <tr>
+	      <td><a href='https://github.com/beharavenkatasatyaprasad/frontend-development/tree/main/boomcars/v0.5'>Boom Cars</a></td>
+	      <td>HTML,CSS,Javascript</td>
+	      <td>its a basic website build to make myself familiar with frontend</td>
+	    </tr>
+	    <tr>
+	      <td><a href='https://github.com/beharavenkatasatyaprasad/universal-covid-tracker-Webapp'>Universal Covid Tracker</a></td>
+	      <td>HTML,CSS,Javascript</td>
+	      <td>Helpful to track covid-19 cases around the world</td>
+	    </tr>
+	    <tr>
+	      <td><a href="https://github.com/beharavenkatasatyaprasad/Indian-covid-tracker-Webapp">Indian Covid Tracker</a></td>
+	      <td>HTML,CSS,Javascript</td>
+	      <td>Helpful to track statewise covid-19 cases in India</td>
+	    </tr>
+	    <tr>
+	      <td><a href='https://github.com/beharavenkatasatyaprasad/Unsplash-photo-search'>Photo Search app</a></td>
+	      <td>HTML,CSS,JQuery</td>
+	      <td>A basic photosearch app developed using unsplash api</td>
+	    </tr>
+	  </tbody>
+	</table>
+</details>
+<details>
+	<summary><b>Participations</b></summary>
+	<table>
+	  <thead>
+	    <tr>
+	      <th>Name</th>
+	      <th>Skills used</th>
+	      <th>Description</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	     <tr>
+	      <td><a href='https://github.com/beharavenkatasatyaprasad/Rest-API-Webapp-challenge'>Frontend Mentor Webapp Challenge</a></td>
+	      <td>HTML,CSS,Javascript</td>
+	      <td> challenge is to integrate with the REST Countries API to pull country data and display it like in the designs</td>
+	    </tr>
+	    <tr>
+	      <td><a href='https://github.com/beharavenkatasatyaprasad/Hackathon-31-10-2020'>Guvi's Hackathon</a></td>
+	      <td>HTML,CSS,Javascript</td>
+	      <td>Challenge is to integrate with the FreshDesk API , get user's freshdesk data and make provisions to list ticket, create ticket, update ticket, delete ticket, list contact, create contact, update contact and delete contact.</td>
+	    </tr>
+	  </tbody>
+	</table>
+</details>  
 <details>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
