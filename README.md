@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/satyaplanet1)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/satya_behara/)
 
-<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=beharavenkatasatyaprasad" alt="visitor badge"/></p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=beharavenkatasatyaprasad" alt="visitor badge"/>
 
 
 ### Glad to see you here! &nbsp;
