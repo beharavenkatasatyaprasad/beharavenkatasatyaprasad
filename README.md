@@ -29,7 +29,6 @@
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
   <br>
   
