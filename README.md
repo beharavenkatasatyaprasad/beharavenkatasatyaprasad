@@ -92,14 +92,26 @@
 </details><br>
 <details><br>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> LENOVO IDEAPAD (i5)</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
-	    <li><b>To Stay Updated:</b> Linkedin, Telegram and FB</li>
-	    <br>
-	</ul>	
+	<table align='center'>
+	  <tbody>
+	     <tr align='center'>
+	      <td><b>Operating system</b></td>
+	      <td>Windows 10 & Ubuntu 19.10</td>
+             </tr>
+	    <tr align='center'>
+	      <td><b>Laptop</b></td>
+	      <td>LENOVO IDEAPAD 320 (i5,7th Generation)</td>
+	    </tr>
+	    <tr align='center'>
+	      <td><b>Browser</b></td>
+	      <td>Firefox Developer Edition</td>
+	    </tr>
+	    <tr align='center'>
+	      <td><b>Code Editor</b></td>
+	      <td>VSCode - The best editor out there</td>
+	    </tr>
+	  </tbody>
+	</table>
 </details><br>
 
 
