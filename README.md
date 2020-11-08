@@ -120,9 +120,6 @@
 
 <img  src="gifs/bars.gif" alt=""/>
 
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs
-
 -------
 
 <div align="center">
@@ -132,3 +129,5 @@
 </div>
 
 ------
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+> -- Steve Jobs
