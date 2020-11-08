@@ -44,24 +44,24 @@
 	  </thead>
 	  <tbody>
 	     <tr>
-	      <td><a href='https://github.com/beharavenkatasatyaprasad/frontend-development/tree/main/boomcars/v0.5'>Boom Cars</a></td>
+	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/frontend-development/tree/main/boomcars/v0.5'>Boom Cars</a></td>
 	      <td>HTML,CSS,Javascript</td>
-	      <td>its a basic website build to make myself familiar with frontend</td>
+	      <td align='center'>it's a basic website build to make myself familiar with frontend</td>
 	    </tr>
 	    <tr>
-	      <td><a href='https://github.com/beharavenkatasatyaprasad/universal-covid-tracker-Webapp'>Universal Covid Tracker</a></td>
+	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/universal-covid-tracker-Webapp'>Universal Covid Tracker</a></td>
 	      <td>HTML,CSS,Javascript</td>
-	      <td>Helpful to track covid-19 cases around the world</td>
+	      <td align='center'>Helpful to track covid-19 cases around the world</td>
 	    </tr>
 	    <tr>
-	      <td><a href="https://github.com/beharavenkatasatyaprasad/Indian-covid-tracker-Webapp">Indian Covid Tracker</a></td>
+	      <td align='center'><a href="https://github.com/beharavenkatasatyaprasad/Indian-covid-tracker-Webapp">Indian Covid Tracker</a></td>
 	      <td>HTML,CSS,Javascript</td>
-	      <td>Helpful to track statewise covid-19 cases in India</td>
+	      <td align='center'>Helpful to track statewise covid-19 cases in India</td>
 	    </tr>
 	    <tr>
-	      <td><a href='https://github.com/beharavenkatasatyaprasad/Unsplash-photo-search'>Photo Search app</a></td>
-	      <td>HTML,CSS,JQuery</td>
-	      <td>A basic photosearch app developed using unsplash api</td>
+	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Unsplash-photo-search'>Photo Search app</a></td>
+	      <td align='center'>HTML,CSS,JQuery</td>
+	      <td align='center'>A basic photosearch app developed using unsplash api</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -78,14 +78,14 @@
 	  </thead>
 	  <tbody>
 	     <tr>
-	      <td><a href='https://github.com/beharavenkatasatyaprasad/Rest-API-Webapp-challenge'>Frontend Mentor Webapp Challenge</a></td>
+	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Rest-API-Webapp-challenge'>Frontend Mentor Webapp Challenge</a></td>
 	      <td>HTML,CSS,Javascript</td>
-	      <td> challenge is to integrate with the REST Countries API to pull country data and display it like in the designs</td>
+	      <td align='justify'> challenge is to integrate with the REST Countries API to pull country data and display it like in the designs</td>
 	    </tr>
 	    <tr>
-	      <td><a href='https://github.com/beharavenkatasatyaprasad/Hackathon-31-10-2020'>Guvi's Hackathon</a></td>
+	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Hackathon-31-10-2020'>Guvi's Hackathon</a></td>
 	      <td>HTML,CSS,Javascript</td>
-	      <td>Challenge is to integrate with the FreshDesk API , get user's freshdesk data and make provisions to list ticket, create ticket, update ticket, delete ticket, list contact, create contact, update contact and delete contact.</td>
+	      <td align='justify'>Challenge is to integrate with the FreshDesk API , get user's freshdesk data and make provisions to list ticket, create ticket, update ticket, delete ticket, list contact, create contact, update contact and delete contact.</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -98,7 +98,7 @@
   	    <li><b>Browser: </b> Firefox Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Linkedin, Telegram and FB</li>
-	    <br />
+	    <br>
 	</ul>	
 </details>
 
