@@ -33,8 +33,8 @@
   <br>
   
 <details>
-	<summary><b>My Works</b></summary>
-	<table>
+	<summary><b> 👨‍💻 My Works </b></summary>
+	<table align='center'>
 	  <thead>
 	    <tr>
 	      <th>Project Name</th>
@@ -67,8 +67,8 @@
 	</table>
 </details>
 <details>
-	<summary><b>Participations</b></summary>
-	<table>
+	<summary><b>🏃‍♂️ Participations</b></summary>
+	<table align='center'>
 	  <thead>
 	    <tr>
 	      <th>Name</th>
