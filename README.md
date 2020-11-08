@@ -100,7 +100,7 @@
              </tr>
 	    <tr align='center'>
 	      <td><b>Laptop</b></td>
-	      <td>LENOVO IDEAPAD 320 (i5,7th Generation)</td>
+	      <td>Lenovo Ideapad 320 (i5,7th Generation)</td>
 	    </tr>
 	    <tr align='center'>
 	      <td><b>Browser</b></td>
