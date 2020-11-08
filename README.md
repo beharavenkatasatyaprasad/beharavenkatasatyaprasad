@@ -32,7 +32,7 @@
 
 <br>
   
-<details><br><br>
+<details><br>
 	<summary><b> 👨‍💻 My Works </b></summary>
 	<table align='center'>
 	  <thead>
@@ -65,8 +65,8 @@
 	    </tr>
 	  </tbody>
 	</table>
-</details>
-<details><br><br>
+</details><br>
+<details><br>
 	<summary><b>🏃‍♂️ Participations</b></summary>
 	<table align='center'>
 	  <thead>
@@ -89,8 +89,8 @@
 	    </tr>
 	  </tbody>
 	</table>
-</details>
-<details><br><br>
+</details><br>
+<details><br>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10</li>
@@ -100,7 +100,7 @@
 	    <li><b>To Stay Updated:</b> Linkedin, Telegram and FB</li>
 	    <br>
 	</ul>	
-</details>
+</details><br>
 
 
 <img  src="gifs/bars.gif" alt=""/>
