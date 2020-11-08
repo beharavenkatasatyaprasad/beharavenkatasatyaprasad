@@ -30,9 +30,9 @@
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
 
-  <br>
+<br>
   
-<details>
+<details><br><br>
 	<summary><b> 👨‍💻 My Works </b></summary>
 	<table align='center'>
 	  <thead>
@@ -65,8 +65,8 @@
 	    </tr>
 	  </tbody>
 	</table>
-</details>
-<details>
+</details><br><br>
+<details><br><br>
 	<summary><b>🏃‍♂️ Participations</b></summary>
 	<table align='center'>
 	  <thead>
@@ -89,8 +89,8 @@
 	    </tr>
 	  </tbody>
 	</table>
-</details>  
-<details>
+</details><br><br>
+<details><br><br>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10</li>
