@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Satya Prasad Behara!](https://github.com/beharavenkatasatyaprasad/) 
+## Hey 👋, I'm [Satya Prasad Behara!](https://github.com/beharavenkatasatyaprasad/) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=beharavenkatasatyaprasad" alt="visitor badge"/></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satya-prasad-behara-51ab861a2/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/satyaplanet1)
@@ -116,6 +116,9 @@
 
 
 <img  src="gifs/bars.gif" alt=""/>
+
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+> -- Steve Jobs
 
 -------
 
