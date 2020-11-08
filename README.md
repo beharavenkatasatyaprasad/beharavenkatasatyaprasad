@@ -89,7 +89,7 @@
 	    <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Hackathon-31-10-2020'>Guvi's Hackathon</a></td>
 	      <td>HTML,CSS,Javascript</td>
-	      <td align='justify'>Challenge is to integrate with the FreshDesk API , get user's freshdesk data and make provisions to list ticket, create ticket, update ticket, delete ticket, list contact, create contact, update contact and delete contact.</td>
+	      <td align='justify'>Challenge is to integrate with the FreshDesk API and build a freshdesk clone.</td>
 	    </tr>
 	  </tbody>
 	</table>
