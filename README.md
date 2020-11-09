@@ -33,7 +33,7 @@
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
-
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="nodepackagemanager"></code>
 <br>
   
 <details><br>
@@ -49,22 +49,38 @@
 	  <tbody>
 	     <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/frontend-development/tree/main/boomcars/v0.5'>Boom Cars</a></td>
-	      <td>HTML,CSS,Javascript</td>
+	      	      <td align='center'>
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
+	      </td>
 	      <td align='center'>it's a basic website build to make myself familiar with frontend</td>
 	    </tr>
 	    <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/universal-covid-tracker-Webapp'>Universal Covid Tracker</a></td>
-	      <td>HTML,CSS,Javascript</td>
+	      <td align='center'>
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
+	      </td>
 	      <td align='center'>Helpful to track covid-19 cases around the world</td>
 	    </tr>
 	    <tr>
 	      <td align='center'><a href="https://github.com/beharavenkatasatyaprasad/Indian-covid-tracker-Webapp">Indian Covid Tracker</a></td>
-	      <td>HTML,CSS,Javascript</td>
+	      <td align='center'>
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
+	      </td>
 	      <td align='center'>Helpful to track statewise covid-19 cases in India</td>
 	    </tr>
 	    <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Unsplash-photo-search'>Photo Search app</a></td>
-	      <td align='center'>HTML,CSS,JQuery</td>
+	      <td align='center'>
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery">
+	      </td>
 	      <td align='center'>A basic photosearch app developed using unsplash api</td>
 	    </tr>
 	  </tbody>
@@ -83,12 +99,20 @@
 	  <tbody>
 	     <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Rest-API-Webapp-challenge'>Frontend Mentor Webapp Challenge</a></td>
-	      <td>HTML,CSS,Javascript</td>
+	      	      <td align='center'>
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
+	      </td>
 	      <td align='justify'> challenge is to integrate with the REST Countries API to pull country data and display it like in the designs</td>
 	    </tr>
 	    <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Hackathon-31-10-2020'>Guvi's Hackathon</a></td>
-	      <td>HTML,CSS,Javascript</td>
+	      	      <td align='center'>
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
+	      </td>
 	      <td align='center'>Challenge is to integrate with the FreshDesk API & build freshdesk clone.</td>
 	    </tr>
 	  </tbody>
@@ -105,15 +129,21 @@
 	    </tr>
 	     <tr align='center'>
 	      <td><b>Operating system</b></td>
-	      <td>Windows 10 & Ubuntu 20.04</td>
-             </tr>		  
+	      <td>
+		      windows10 & Ubuntu 20.04
+	      </td>
+            </tr>		  
 	    <tr align='center'>
 	      <td><b>Browser</b></td>
-	      <td>Firefox Developer Edition</td>
+	      <td>
+		      Firefox Developer Edition
+	      </td>
 	    </tr>
 	    <tr align='center'>
 	      <td><b>Code Editor</b></td>
-	      <td>VSCode - The best editor out there</td>
+	      <td>
+		      VS Code - the best editor out there.
+              </td>
 	    </tr>
 	  </tbody>
 	</table>
