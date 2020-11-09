@@ -104,7 +104,7 @@
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
 	      </td>
-	      <td align='center'> challenge is to integrate with the REST Countries API to pull country data and display it like in the designs</td>
+	      <td align='center'> challenge is to integrate with the REST Countries API to pull country data.</td>
 	    </tr>
 	    <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Hackathon-31-10-2020'>Guvi's Hackathon</a></td>
