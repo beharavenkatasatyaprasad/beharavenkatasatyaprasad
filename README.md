@@ -37,7 +37,7 @@
 <br>
   
 <details><br>
-	<summary><b> ☑️ Projects</b></summary>
+	<summary><b> ☑️ Accomplished Projects</b></summary>
 	<table align='center'>
 	  <thead>
 	    <tr>
