@@ -98,7 +98,7 @@
 	  <tbody>
 	     <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/zoom-clone'>Zoom Clone</a></td>
-	      <td align='center'>a Webapp to stream video calls using node js</td>
+	      <td align='center'>a web version of zoom build with node.js.</td>
 	    </tr>
 	  </tbody>
 	</table>
