@@ -37,7 +37,7 @@
 <br>
   
 <details><br>
-	<summary><b> 👨‍💻 My Works </b></summary>
+	<summary><b> ☑️ Projects</b></summary>
 	<table align='center'>
 	  <thead>
 	    <tr>
@@ -82,6 +82,24 @@
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery">
 	      </td>
 	      <td align='center'>A basic photosearch app developed using unsplash api</td>
+	    </tr>
+	  </tbody>
+	</table>
+</details><br>
+<details><br>
+	<summary><b> 🔃 Active Projects</b></summary>
+	<table align='center'>
+	  <thead>
+	    <tr>
+	      <th>Project Name</th>
+	      <th>Skills used</th>
+	      <th>Description</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	     <tr>
+	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/zoom-clone'>Zoom Clone</a></td>
+	      <td align='center'>an app to stream video calls using node js and some libraries</td>
 	    </tr>
 	  </tbody>
 	</table>
