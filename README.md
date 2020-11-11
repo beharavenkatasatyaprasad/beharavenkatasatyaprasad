@@ -97,7 +97,7 @@
 	  </thead>
 	  <tbody>
 	     <tr>
-	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/zoom-clone'>Zoom Clone</a>(private repo)</td>
+	      <td align='center'>Zoom Clone</td>
 	      <td align='center'>a web version of zoom build with node.js.</td>
 	    </tr>
 	  </tbody>
