@@ -92,14 +92,13 @@
 	  <thead>
 	    <tr>
 	      <th>Project Name</th>
-	      <th>Skills used</th>
 	      <th>Description</th>
 	    </tr>
 	  </thead>
 	  <tbody>
 	     <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/zoom-clone'>Zoom Clone</a></td>
-	      <td align='center'>an app to stream video calls using node js and some libraries</td>
+	      <td align='center'>a Webapp to stream video calls using node js</td>
 	    </tr>
 	  </tbody>
 	</table>
