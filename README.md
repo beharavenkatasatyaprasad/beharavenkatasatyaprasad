@@ -34,6 +34,7 @@
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="nodepackagemanager"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongodB"></code>
 <br>
   
 <details><br>
