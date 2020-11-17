@@ -107,11 +107,11 @@
 	    </tr>
 	  </thead>
 	  <tbody>
-	     <tr>
+<!-- 	     <tr>
 	      <td align='center'>Zoom Clone</td>
 	      <td align='center'>a web version of zoom build with node.js.</td>
 	    </tr>
-	    <tr>
+	    <tr> -->
 	      <td align='center'>Hotel Administration Webapp</td>
 	      <td align='center'>a webapp used to manage rooms and customers services of a hotel.</td>
 	    </tr>
