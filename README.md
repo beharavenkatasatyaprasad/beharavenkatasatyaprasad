@@ -49,13 +49,14 @@
 	  </thead>
 	  <tbody>
 	     <tr>
-	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/frontend-development/tree/main/boomcars/v0.5'>Boom Cars</a></td>
-	      	      <td align='center'>
+	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Find-A-Pic'>Find a Pic webapp</a></td>
+	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery">
 	      </td>
-	      <td align='center'>it's a basic website build to make myself familiar with frontend</td>
+	      <td align='center'>An app integrated by using unsplash api</td>
 	    </tr>
 	    <tr>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/universal-covid-tracker-Webapp'>Universal Covid Tracker</a></td>
@@ -76,24 +77,24 @@
 	      <td align='center'>Helpful to track statewise covid-19 cases in India</td>
 	    </tr>
 	    <tr>
-	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Unsplash-photo-search'>Photo Search app</a></td>
-	      <td align='center'>
-		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
-		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
-		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery">
-	      </td>
-	      <td align='center'>A basic photosearch app developed using unsplash api</td>
-	    </tr>
-	    <tr>
-	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/restaurant-finder'>Restaurant Finder Webapp</a></td>
+	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/restaurant-finder'>Resto Finder Webapp</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery">
 	      </td>
-	      <td align='center'>An app that is integrated by using the Zomato Api's `/geolocation` Endpoint</td>
-	    </tr>		  
+	      <td align='center'>An app integrated by using the Zomato Api's `/geolocation` Endpoint</td>
+	    </tr>
+	    <tr>
+	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/frontend-development/tree/main/boomcars/v0.5'>Boom Cars</a></td>
+	      	      <td align='center'>
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
+	      </td>
+	      <td align='center'>it's a basic website build to make myself familiar with frontend</td>
+	    </tr>
 	  </tbody>
 	</table>
 </details><br>
