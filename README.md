@@ -145,7 +145,6 @@
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript">
-      		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery">
 	      </td>
 	      <td align='center'>Challenge is to integrate with the FreshDesk API & build freshdesk clone.</td>
 	    </tr>
