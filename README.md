@@ -91,7 +91,7 @@
 	      <td align='center'>An app integrated by using the Zomato Api's `/geolocation` Endpoint</td>
 	    </tr>
 	    <tr>
-	      <td>04</td>		    
+	      <td>05</td>		    
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Mentor-Assignment-Webapp'>Mentor Assignment Webapp</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
@@ -104,7 +104,7 @@
 	      <td align='center'>An app integrated by using self build REST api Deployed in Heroku.</td>
 	    </tr>
 	    <tr>
-	      <td>05</td>		   
+	      <td>06</td>		   
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/frontend-development/tree/main/boomcars/v0.5'>Boom Cars</a></td>
 	      	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
