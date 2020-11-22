@@ -4,7 +4,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/satyaplanet1)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/satya_behara/)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=beharavenkatasatyaprasad" alt="visitor badge"/>
 
 
 ### Glad to see you here! &nbsp;
@@ -103,8 +102,8 @@
 	<table align='center'>
 	  <thead>
 	    <tr>
-	      <th>Project Name</th>
-	      <th>Description</th>
+ 	      <th>In preparation for SemEnd Exams 😅</th>
+	     <!-- <th>Description</th> -->
 	    </tr>
 	  </thead>
 	  <tbody>
@@ -112,10 +111,10 @@
 	      <td align='center'>Zoom Clone</td>
 	      <td align='center'>a web version of zoom build with node.js.</td>
 	    </tr>
-	    <tr> -->
+	    <tr> 
 	      <td align='center'>Hotel Administration Webapp</td>
 	      <td align='center'>a webapp used to manage rooms and customers services of a hotel.</td>
-	    </tr>
+	    </tr>-->
 	  </tbody>
 	</table>
 </details><br>
