@@ -41,6 +41,7 @@
 	<table align='center'>
 	  <thead>
 	    <tr>
+	      <th>#</th>
 	      <th>Project Name</th>
 	      <th>Technologies used</th>
 	      <th>Description</th>
@@ -48,6 +49,7 @@
 	  </thead>
 	  <tbody>
 	     <tr>
+	      <td>01</td>
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Find-A-Pic'>Find a Pic webapp</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
@@ -57,6 +59,7 @@
 	      <td align='center'>An app integrated by using unsplash api</td>
 	    </tr>
 	    <tr>
+	      <td>02</td>		    
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/universal-covid-tracker-Webapp'>Universal Covid Tracker</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
@@ -67,6 +70,7 @@
 	      <td align='center'>Helpful to track covid-19 cases around the world</td>
 	    </tr>
 	    <tr>
+	      <td>03</td>   
 	      <td align='center'><a href="https://github.com/beharavenkatasatyaprasad/Indian-covid-tracker-Webapp">Indian Covid Tracker</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
@@ -77,6 +81,7 @@
 	      <td align='center'>Helpful to track statewise covid-19 cases in India</td>
 	    </tr>
 	    <tr>
+	      <td>04</td>		    
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/restaurant-finder'>Resto Finder Webapp</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
@@ -86,6 +91,7 @@
 	      <td align='center'>An app integrated by using the Zomato Api's `/geolocation` Endpoint</td>
 	    </tr>
 	    <tr>
+	      <td>04</td>		    
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Mentor-Assignment-Webapp'>Mentor Assignment Webapp</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
@@ -98,6 +104,7 @@
 	      <td align='center'>An app integrated by using self build REST api Deployed in Heroku.</td>
 	    </tr>
 	    <tr>
+	      <td>05</td>		   
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/frontend-development/tree/main/boomcars/v0.5'>Boom Cars</a></td>
 	      	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
