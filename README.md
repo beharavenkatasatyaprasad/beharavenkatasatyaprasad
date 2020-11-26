@@ -121,19 +121,19 @@
 	<table align='center'>
 	  <thead>
 	    <tr>
- 	      <th>In preparation for SemEnd Exams 😅</th>
-	     <!-- <th>Description</th> -->
+ 	      <th>Project Name</th>
+	      <th>Description</th>
 	    </tr>
 	  </thead>
 	  <tbody>
-<!-- 	     <tr>
-	      <td align='center'>Zoom Clone</td>
-	      <td align='center'>a web version of zoom build with node.js.</td>
+	     <tr>
+	      <td align='center'>Silly UP</td>
+	      <td align='center'>Url shortening webapplication..</td>
 	    </tr>
-	    <tr> 
+<!-- 	    <tr> 
 	      <td align='center'>Hotel Administration Webapp</td>
 	      <td align='center'>a webapp used to manage rooms and customers services of a hotel.</td>
-	    </tr>-->
+	    </tr> -->
 	  </tbody>
 	</table>
 </details><br>
