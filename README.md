@@ -127,7 +127,7 @@
 	  </thead>
 	  <tbody>
 	     <tr>
-	      <td align='center'>Silly UP</td>
+	      <td align='center'>SillyFy</td>
 	      <td align='center'>Url shortening webapplication..</td>
 	    </tr>
 <!-- 	    <tr> 
