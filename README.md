@@ -200,8 +200,6 @@
 	</table>
 </details><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beharavenkatasatyaprasad&hide_border=true&layout=compact" align="right" style="width: 100%" />
-
 <img  src="gifs/bars.gif" alt=""/>
 
 -------
