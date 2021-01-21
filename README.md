@@ -22,7 +22,8 @@
 
 ### Languages and Tools:
 
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="c"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"></code>
