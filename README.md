@@ -45,7 +45,7 @@
 	    <tr>
 	      <th>#</th>
 	      <th>Project Name</th>
-	      <th>Tools / Technologies used</th>
+	      <th>Tools / Technologies</th>
 	      <th>Description</th>
 	    </tr>
 	  </thead>
