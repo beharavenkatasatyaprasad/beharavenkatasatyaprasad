@@ -76,6 +76,21 @@
 	    </tr>
 	    <tr>
 	      <td>03</td>		    
+	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Recipes-Rover-UI'>Recipes Rover</a></td>
+	      <td align='center'>
+		     <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"> 
+		      <br>
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs">
+		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express">
+		      <img height="26" src="https://img.icons8.com/color/144/000000/mongodb.png" alt="MongodB">	      
+	      </td>
+	      <td align='center'>Helpful to track covid-19 cases around the world</td>
+	    </tr>
+	    <tr>
+	      <td>04</td>		    
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/universal-covid-tracker-Webapp'>Universal Covid Tracker</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
@@ -84,9 +99,9 @@
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery">		      
 	      </td>
 	      <td align='center'>Helpful to track covid-19 cases around the world</td>
-	    </tr>
+	    </tr>		  
 	    <tr>
-	      <td>04</td>   
+	      <td>05</td>   
 	      <td align='center'><a href="https://github.com/beharavenkatasatyaprasad/Indian-covid-tracker-Webapp">Indian Covid Tracker</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
@@ -97,7 +112,7 @@
 	      <td align='center'>Helpful to track statewise covid-19 cases in India</td>
 	    </tr>
 	    <tr>
-	      <td>05</td>		    
+	      <td>06</td>		    
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/restaurant-finder'>Resto Finder Webapp</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
@@ -107,7 +122,7 @@
 	      <td align='center'>An app integrated by using the Zomato Api's `/geolocation` Endpoint</td>
 	    </tr>
 	    <tr>
-	      <td>06</td>		    
+	      <td>07</td>		    
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/Mentor-Assignment-Webapp'>Mentor Assignment Webapp</a></td>
 	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
@@ -120,7 +135,7 @@
 	      <td align='center'>An app integrated by using self build REST api Deployed in Heroku.</td>
 	    </tr>
 	    <tr>
-	      <td>07</td>		   
+	      <td>08</td>		   
 	      <td align='center'><a href='https://github.com/beharavenkatasatyaprasad/frontend-development/tree/main/boomcars/v0.5'>Boom Cars</a></td>
 	      	      <td align='center'>
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5">
