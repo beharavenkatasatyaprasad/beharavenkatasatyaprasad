@@ -118,7 +118,7 @@
 		      <img height="25" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express">
 		      <img height="26" src="https://img.icons8.com/color/144/000000/mongodb.png" alt="MongodB">
 	      </td>
-	      <td align='center'>API endpoints for the CRM System and this is a backend task.</td>
+	      <td align='center'>backend for customer relationship management system.</td>
 	    </tr>
 	    <tr>
 	      <td>07</td>		    
