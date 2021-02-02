@@ -35,7 +35,7 @@
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="nodepackagemanager"></code>
 <code><img height="26" src="https://img.icons8.com/color/144/000000/mongodb.png" alt="MongodB"></code>
-
+<code><img height="26" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"></code>
 <br>
   
 <details><br>
