@@ -20,7 +20,7 @@
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: satyaprasadbehara@gmail.com
 
-### Languages and Tools:
+### Languages/Tools/Technologies:
 
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="c"></code>
