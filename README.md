@@ -38,7 +38,7 @@
 <code><img height="26" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"></code>
 <br>
   
-<details><br>
+<!-- 	<details><br>
 	<summary><b> ☑️ Accomplished Projects</b></summary>
 	<table align='center'>
 	  <thead>
@@ -170,14 +170,14 @@
 	      <td align='center'>Customer RelationShip Management</td>
 	      <td align='center'>To Design API endpoints for the CRM System..</td>
 	    </tr>
-<!-- 	    <tr> 
+	    <tr> 
 	      <td align='center'>Hotel Administration Webapp</td>
 	      <td align='center'>a webapp used to manage rooms and customers services of a hotel.</td>
-	    </tr> -->
+	    </tr> 
 	  </tbody>
 	</table>
 </details><br>
-<details><br>
+<details><br>-->
 	<summary><b>🏃‍♂️ Participations</b></summary>
 	<table align='center'>
 	  <thead>
