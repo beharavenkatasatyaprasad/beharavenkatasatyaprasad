@@ -8,14 +8,12 @@
 
 ### Glad to see you here! &nbsp;
 
-<p align='justify'>I'm a pre-final year student pursuing Bachelors in Electronics and Communications 🎓 from  <a href="https://www.kluniversity.in/" target="_blank">KL University</a> (Vijayawada)🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</p>
+<p align='justify'>I'm a pre-final year student pursuing Bachelors in Electronics and Communications 🎓 from  <a href="https://www.kluniversity.in/" target="_blank">KL University</a> (Vijayawada)🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.</p>
 
 
 <img align="right" height="250" width="375" alt="" src="gifs/code1.gif" />
 
 ### Talking about Personal Stuffs:
-
-- 🚀 &nbsp; I’m currently being skilled in Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/beharavenkatasatyaprasad).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: satyaprasadbehara@gmail.com
