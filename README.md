@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Satya Prasad Behara!](https://github.com/beharavenkatasatyaprasad/) 
+## Hey 👋, I'm [Satya Prasad Behara!](https://satyaprasad-behara.netlify.app/) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satya-prasad-behara-51ab861a2/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/satyaplanet1)
